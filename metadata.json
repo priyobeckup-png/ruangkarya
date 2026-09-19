@@ -1,6 +1,0 @@
-{
-  "name": "RuangKarya — Undangan, Souvenir & Percetakan",
-  "description": "Pesan undangan, souvenir, dan kebutuhan percetakan untuk berbagai acara. Lihat katalog dan pesan langsung melalui WhatsApp.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
