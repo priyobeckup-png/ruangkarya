@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://undangan-cell.github.io/sitemap.xml
+Sitemap: https://priyobeckup-png.github.io/ruangkarya/sitemap.xml
